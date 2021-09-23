@@ -1,0 +1,4 @@
+[core]
+    remote = proto
+['remote "proto"']
+    url = /home/ailab/Workspace/joo/CLOUD/dvc-test
