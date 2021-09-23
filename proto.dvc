@@ -1,0 +1,5 @@
+outs:
+- md5: 2e295df4b2a670470363006126a89cf2.dir
+  size: 155148928
+  nfiles: 101
+  path: proto
